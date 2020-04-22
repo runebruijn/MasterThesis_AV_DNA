@@ -8,8 +8,7 @@ During this Master Thesis of Rune Bruijn, the influence of genetic and situation
 This folder contains all the verification models: GLAD, SVR, Bleached SVR and BERTje.
 
 <h3>GLAD</h3>
-For information on the GLAD model, please see: https://github.com/pan-webis-de/glad
-Running the model: python3 glad-main.py "../../Data/GLAD/[TRAINING FOLDER] ../../Data/GLAD/[TEST FOLDER]", where [TRAINING FOLDER] and [TEST FOLDER] are replaced with the path of the training folders and test folders containing the DU001, DU002, DU003, etc. folders.
+Running the model: python3 glad-main.py "../../Data/GLAD/[TRAINING FOLDER] ../../Data/GLAD/[TEST FOLDER]", where [TRAINING FOLDER] and [TEST FOLDER] are replaced with the path of the training folders and test folders containing the DU001, DU002, DU003, etc. folders. For information on the GLAD model, please see: https://github.com/pan-webis-de/glad
 
 <h3>Other Models</h3>
 Running the models: "python3 [MODEL].py ../../Data/Other\ Models/[TRAINING FILE] ../../Data/Other\ Models/[TEST FILE]", where [TRAINING FILE] and [TEST FILE] are replaced with the path of the training file and test file.
